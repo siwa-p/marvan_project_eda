@@ -1,0 +1,7 @@
+# Add your project dependencies here
+pandas
+numpy
+minio
+pytest
+dotenv
+requests
